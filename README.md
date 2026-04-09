@@ -5,8 +5,8 @@ This project focuses on frontend architecture, interaction quality, and visual d
 
 ## Submission Links
 
-- Source code repository: ADD_YOUR_PUBLIC_GITHUB_OR_GITLAB_LINK
-- Live demo (optional): ADD_YOUR_VERCEL_NETLIFY_OR_GITHUB_PAGES_LINK
+- Source code repository: https://github.com/Harshitchandel20/Wall-Calendar
+- Live demo (optional): https://harshitchandel20.github.io/Wall-Calendar/
 
 ## Challenge Requirement Coverage
 
